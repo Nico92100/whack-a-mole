@@ -1,0 +1,32 @@
+.square {
+  height: 200px;
+  width: 200px;
+  border: 1px solid white;
+background-color: grey;
+}
+
+.grid {
+  display: flex;
+flex-flow: row wrap;
+align-content: center;
+justify-content: center;
+width: 1000px;
+height: 1000px;
+}
+
+.mole {
+  background-image: url("taupe.png")
+}
+
+h1 {
+color: red;
+}
+
+
+#time-left {
+  color: red;
+}
+
+#score {
+  color:red;
+}
